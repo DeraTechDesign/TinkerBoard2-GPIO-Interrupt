@@ -1,0 +1,46 @@
+{
+    "pins" : [
+        {
+            "pin" : 1, "mode" : "INPUT"
+        },
+        {
+            "pin" : 4, "mode" : "INPUT"
+        },
+        {
+            "pin" : 5, "mode" : "INPUT"
+        },
+        {
+            "pin" : 6, "mode" : "INPUT"
+        },
+        {
+            "pin" : 11, "mode" : "INPUT"
+        },
+        {
+            "pin" : 26, "mode" : "INPUT"
+        },
+        {
+            "pin" : 28, "mode" : "INPUT"
+        },
+        {
+            "pin" : 29, "mode" : "INPUT"
+        },
+        {
+            "pin" : 2, "mode" : "INPUT"
+        },
+        {
+            "pin" : 3, "mode" : "INPUT"
+        },
+        {
+            "pin" : 21, "mode" : "INPUT"
+        },
+        {
+            "pin" : 22, "mode" : "INPUT"
+        },
+        {
+            "pin" : 23, "mode" : "INPUT"
+        },
+        {
+            "pin" : 24, "mode" : "INPUT"
+        }
+    ]
+}
